@@ -1,4 +1,4 @@
-- 👀 I’m interested in Java and Python
+- 👀 I'm learning Java
 
 <!---
 u361/u361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
